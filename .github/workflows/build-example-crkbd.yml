@@ -9,4 +9,3 @@ jobs:
     uses: ./.github/workflows/main.yml
     with:
       keyboard: '["boardsource/unicorne"]'
-      merge: '["qmk/qmk_firmware/master"]'
